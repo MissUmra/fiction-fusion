@@ -6,7 +6,7 @@ A revolutionary interactive storytelling platform that brings fictional characte
 
 ## 🌟 Live Demo
 
-🔗 **Application URL:** [Fiction Fusion Live](https://your-amplify-app-url.amplify.aws.com)
+🔗 **Application URL:** [Fiction Fusion Live](https://main.d2yd18fdjrk1by.amplifyapp.com)
 
 ## 🎯 Problem Statement
 
@@ -155,7 +155,7 @@ Our application leverages **AWS Lambda** as the primary compute service with thr
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fiction-fusion.git
+git clone https://github.com/MissUmra/fiction-fusion.git
 cd fiction-fusion
 
 # Install dependencies
@@ -208,7 +208,7 @@ cd lambda/story-creation && zip -r ../story-creation.zip .
 
 ## 🎥 Demo Video
 
-[![Fiction Fusion Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Fiction Fusion Demo](https://img.youtube.com/vi/v5Wnj1WsJPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=v5Wnj1WsJPQ)
 
 **Video Highlights:**
 - Live character conversations
@@ -243,7 +243,7 @@ cd lambda/story-creation && zip -r ../story-creation.zip .
 
 ## 👥 Team
 
-- **Developer:** [Your Name]
+- **Developer:** Umra
 - **Role:** Full-Stack Developer & AWS Architect
 - **Contact:** [your.email@example.com]
 
@@ -264,9 +264,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🔗 Quick Links
 
-- [Live Application](https://your-amplify-app-url.amplify.aws.com)
-- [Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-- [Source Code](https://github.com/yourusername/fiction-fusion)
+- [Live Application](https://main.d2yd18fdjrk1by.amplifyapp.com)
+- [Demo Video](https://www.youtube.com/watch?v=v5Wnj1WsJPQ)
+- [Source Code](https://github.com/MissUmra/fiction-fusion)
 - [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/)
 
 ---
